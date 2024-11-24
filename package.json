@@ -1,6 +1,6 @@
 {
   "name": "startup-app",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "homepage": "https://lfcruz2.github.io/startupActivity",
   "dependencies": {
